@@ -2,9 +2,13 @@
 
 ## 📖 About
 
-This repository contains beginner SQL projects that help me learn SQL step by step.
+This repository documents my journey of learning SQL from the ground up.
 
-Each project focuses on one SQL concept and answers real business questions using SQL.
+Instead of jumping straight into complex datasets, I start with a custom employee database to build a solid understanding of SQL fundamentals. Each lesson focuses on a single concept and gradually introduces more advanced queries using the same dataset.
+
+The goal is not only to learn SQL syntax, but also to practice thinking like a Data Analyst by solving simple business problems.
+
+---
 
 ## 🛠️ Tools
 
@@ -13,25 +17,52 @@ Each project focuses on one SQL concept and answers real business questions usin
 - Git
 - GitHub
 
-## 📚 Topics
+---
 
+## 📂 Repository Structure
+
+```text
+projects/
+│
+├── 00_database_design/
+├── 01_select/
+├── 02_where/
+├── 03_order_by/
+├── 04_limit/
+├── 05_distinct/
+├── 06_operators/
+├── 07_like/
+├── 08_in_between/
+├── 09_group_by/
+├── 10_having/
+└── 11_basic_functions/
+```
+
+---
+
+## 📚 Learning Topics
+
+- Database Design
 - SELECT
 - WHERE
 - ORDER BY
 - LIMIT
 - DISTINCT
+- Operators
 - LIKE
-- IN
-- BETWEEN
+- IN & BETWEEN
 - GROUP BY
 - HAVING
 - Aggregate Functions
 
-## 📁 Project List
+---
 
-| No | Project | Status |
-|----|---------|--------|
-| 01 | SELECT | ⏳ |
+## 📈 Learning Progress
+
+| Lesson | Topic | Status |
+|--------|-------|--------|
+| 00 | Database Design | ✅ Completed |
+| 01 | SELECT | ⏳ In Progress |
 | 02 | WHERE | ⏳ |
 | 03 | ORDER BY | ⏳ |
 | 04 | LIMIT | ⏳ |
@@ -41,4 +72,10 @@ Each project focuses on one SQL concept and answers real business questions usin
 | 08 | IN & BETWEEN | ⏳ |
 | 09 | GROUP BY | ⏳ |
 | 10 | HAVING | ⏳ |
-| 11 | Basic Functions | ⏳ |
+| 11 | Aggregate Functions | ⏳ |
+
+---
+
+## 🎯 Goal
+
+By the end of this repository, I aim to be comfortable writing SQL queries for data exploration and basic business analysis before moving on to more advanced topics such as JOINs, CTEs, and Window Functions.

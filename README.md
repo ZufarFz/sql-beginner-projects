@@ -13,7 +13,7 @@ The goal is not only to learn SQL syntax, but also to practice thinking like a D
 ## 🛠️ Tools
 
 - PostgreSQL
-- DBeaver
+- pgAdmin 4
 - Git
 - GitHub
 
@@ -62,8 +62,8 @@ projects/
 | Lesson | Topic | Status |
 |--------|-------|--------|
 | 00 | Database Design | ✅ Completed |
-| 01 | SELECT | ⏳ In Progress |
-| 02 | WHERE | ⏳ |
+| 01 | SELECT | ✅ Completed |
+| 02 | WHERE | ⏳ In Progress |
 | 03 | ORDER BY | ⏳ |
 | 04 | LIMIT | ⏳ |
 | 05 | DISTINCT | ⏳ |

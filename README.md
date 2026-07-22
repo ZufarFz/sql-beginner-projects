@@ -63,8 +63,8 @@ projects/
 |--------|-------|--------|
 | 00 | Database Design | ✅ Completed |
 | 01 | SELECT | ✅ Completed |
-| 02 | WHERE | ⏳ In Progress |
-| 03 | ORDER BY | ⏳ |
+| 02 | WHERE | ✅ Completed |
+| 03 | ORDER BY | ⏳ In Progress |
 | 04 | LIMIT | ⏳ |
 | 05 | DISTINCT | ⏳ |
 | 06 | Operators | ⏳ |

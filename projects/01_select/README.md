@@ -28,7 +28,7 @@ In this project, data is retrieved from the `employees` table created in the pre
 
 Example:
 
-```
+```sql
 SELECT column_name
 FROM employees;
 ```
@@ -48,7 +48,7 @@ The query above retrieves specific information from the employee database.
 
 **Query:**
 
-```
+```sql
 SELECT *
 FROM employees;
 ```
@@ -75,7 +75,7 @@ Using `SELECT *` retrieves all columns from the table. It is useful for explorat
 
 **Query:**
 
-```
+```sql
 SELECT
     first_name,
     last_name
@@ -104,7 +104,7 @@ Selecting relevant columns helps make the output easier to understand.
 
 **Query:**
 
-```
+```sql
 SELECT
     first_name,
     last_name,
@@ -134,7 +134,7 @@ The selected columns directly answer the business requirement without including 
 
 **Query:**
 
-```
+```sql
 SELECT
     first_name || ' ' || last_name AS full_name,
     email,

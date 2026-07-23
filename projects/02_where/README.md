@@ -28,7 +28,7 @@ In this project, data is filtered from the `employees` table created in the prev
 
 Example:
 
-```
+```sql
 SELECT column_name
 FROM employees
 WHERE condition;
@@ -49,7 +49,7 @@ The query above retrieves only records that match the given condition.
 
 **Query:**
 
-```
+```sql
 SELECT
     employee_id,
     first_name,
@@ -82,7 +82,7 @@ Filtering data by department allows users to focus only on relevant employee gro
 
 **Query:**
 
-```
+```sql
 SELECT
     employee_id,
     first_name,
@@ -115,7 +115,7 @@ The result can be used for employee analysis based on specific age criteria.
 
 **Query:**
 
-```
+```sql
 SELECT
     employee_id,
     first_name,
@@ -152,7 +152,7 @@ This approach helps analysts answer more specific business questions.
 
 **Query:**
 
-```
+```sql
 SELECT
     employee_id,
     first_name,

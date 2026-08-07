@@ -67,8 +67,8 @@ projects/
 | 03 | ORDER BY | ✅ Completed |
 | 04 | LIMIT | ✅ Completed |
 | 05 | DISTINCT | ✅ Completed |
-| 06 | Operators | ⏳ In Progress |
-| 07 | LIKE | ⏳ |
+| 06 | Operators | ✅ Completed |
+| 07 | LIKE | ⏳ In Progress |
 | 08 | IN & BETWEEN | ⏳ |
 | 09 | GROUP BY | ⏳ |
 | 10 | HAVING | ⏳ |

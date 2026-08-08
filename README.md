@@ -68,8 +68,8 @@ projects/
 | 04 | LIMIT | ✅ Completed |
 | 05 | DISTINCT | ✅ Completed |
 | 06 | Operators | ✅ Completed |
-| 07 | LIKE | ⏳ In Progress |
-| 08 | IN & BETWEEN | ⏳ |
+| 07 | LIKE | ✅ Completed |
+| 08 | IN & BETWEEN | ⏳ In Progress |
 | 09 | GROUP BY | ⏳ |
 | 10 | HAVING | ⏳ |
 | 11 | Aggregate Functions | ⏳ |

@@ -70,8 +70,8 @@ projects/
 | 06 | Operators | ✅ Completed |
 | 07 | LIKE | ✅ Completed |
 | 08 | IN & BETWEEN | ✅ Completed |
-| 09 | GROUP BY | ⏳ In Progress |
-| 10 | HAVING | ⏳ |
+| 09 | GROUP BY | ✅ Completed |
+| 10 | HAVING | ⏳ In Progress |
 | 11 | Aggregate Functions | ⏳ |
 
 ---
